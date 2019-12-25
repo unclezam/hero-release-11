@@ -4,3 +4,4 @@ It takes time to learn git.
 please take it easy.
 Git has a mutable index called stage.
 git tracks changes.
+Git learn well.
