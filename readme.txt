@@ -3,3 +3,4 @@ git is a free software under GPL.
 It takes time to learn git.
 please take it easy.
 Git has a mutable index called stage.
+git tracks changes.
