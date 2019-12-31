@@ -7,3 +7,4 @@ git tracks changes.
 Git learn well.
 I love git to submit codes.
 Got it please answer.
+Creating a new branch is quick AND simple.
